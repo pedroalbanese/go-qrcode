@@ -2,7 +2,12 @@
 
 <img src='https://skip.org/img/nyancat-youtube-qr.png' align='right'>
 
-Package qrcode implements a QR Code encoder. [![Build Status](https://travis-ci.org/skip2/go-qrcode.svg?branch=master)](https://travis-ci.org/skip2/go-qrcode)
+[![ISC License](http://img.shields.io/badge/license-ISC-blue.svg)](https://github.com/pedroalbanese/go-qrcode/blob/master/LICENSE.md) 
+[![GoDoc](https://godoc.org/github.com/pedroalbanese/go-qrcode?status.png)](http://godoc.org/github.com/pedroalbanese/go-qrcode)
+[![GitHub downloads](https://img.shields.io/github/downloads/pedroalbanese/go-qrcode/total.svg?logo=github&logoColor=white)](https://github.com/pedroalbanese/go-qrcode/releases)
+[![Go Report Card](https://goreportcard.com/badge/github.com/pedroalbanese/go-qrcode)](https://goreportcard.com/report/github.com/pedroalbanese/go-qrcode)
+[![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/pedroalbanese/go-qrcode)](https://golang.org)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/pedroalbanese/go-qrcode)](https://github.com/pedroalbanese/go-qrcode/releases)
 
 A QR Code is a matrix (two-dimensional) barcode. Arbitrary content may be encoded, with URLs being a popular choice :)
 
